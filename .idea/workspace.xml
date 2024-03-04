@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9e050ad-b08b-4096-9172-782bc90c837e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/strategy/OurHashMapStorageStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/FileBucket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/FileStorageStrategy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +85,9 @@
       <workItem from="1709566522348" duration="155000" />
       <workItem from="1709568831055" duration="31000" />
       <workItem from="1709568869995" duration="15000" />
+      <workItem from="1709571577803" duration="4000" />
+      <workItem from="1709571588925" duration="11000" />
+      <workItem from="1709571604000" duration="666000" />
     </task>
     <servers />
   </component>
