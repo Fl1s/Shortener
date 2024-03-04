@@ -6,21 +6,20 @@ public class Shortener {
     private Long lastId = 0L;
     private StorageStrategy storageStrategy;
 
-    public Shortener(StorageStrategy strategy) {
-        this.storageStrategy = strategy;
+    public Shortener(StorageStrategy storageStrategy) {
+        this.storageStrategy = storageStrategy;
     }
 
-    synchronized Long getId(String string){
-        if (storageStrategy.containsValue(string)){
+    public synchronized Long getId(String string) {
+        if (storageStrategy.containsValue(string))
             return storageStrategy.getKey(string);
-        }else {
-            lastId++;
-            storageStrategy.put(lastId, string);
-        }
-        storageStrategy.containsValue(string);
-        return null;
+
+        lastId++;
+        storageStrategy.put(lastId, string);
+        return lastId;
     }
-    synchronized String getString(Long id){
+
+    public synchronized String getString(Long id) {
         return storageStrategy.getValue(id);
     }
 }

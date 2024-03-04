@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9e050ad-b08b-4096-9172-782bc90c837e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/strategy/HashMapStorageStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shortener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shortener.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +69,7 @@
       <workItem from="1709447182019" duration="52000" />
       <workItem from="1709447241301" duration="21000" />
       <workItem from="1709522720227" duration="26000" />
+      <workItem from="1709533782811" duration="14000" />
     </task>
     <servers />
   </component>
