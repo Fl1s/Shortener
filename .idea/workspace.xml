@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c9e050ad-b08b-4096-9172-782bc90c837e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Shortener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shortener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/Entry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +48,10 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/Makss/Documents/GitHub/Shortener&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -70,6 +79,9 @@
       <workItem from="1709447241301" duration="21000" />
       <workItem from="1709522720227" duration="26000" />
       <workItem from="1709533782811" duration="14000" />
+      <workItem from="1709533807042" duration="1731000" />
+      <workItem from="1709563733057" duration="7000" />
+      <workItem from="1709566492973" duration="20000" />
     </task>
     <servers />
   </component>
