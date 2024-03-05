@@ -8,7 +8,7 @@ import java.util.Set;
 
 public class Main {
     public static void main(String[] args) {
-        long elementsNumber = 10000;
+        long elementsNumber = 5;
 
         testStrategy(new HashMapStorageStrategy(), elementsNumber);
 
