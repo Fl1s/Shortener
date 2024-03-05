@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9e050ad-b08b-4096-9172-782bc90c837e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/strategy/sd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/FunctionalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Shortener.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Shortener.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strategy/OurHashBiMapStorageStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/OurHashBiMapStorageStrategy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +65,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.FunctionalTest">
     <configuration name="main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="src.Main" />
       <module name="Shortener" />
@@ -72,6 +73,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FunctionalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Shortener" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="src.tests" />
+      <option name="MAIN_CLASS_NAME" value="src.tests.FunctionalTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FunctionalTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SwiftWorkspaceSettings">
@@ -119,7 +140,9 @@
       <workItem from="1709674590631" duration="79000" />
       <workItem from="1709674691845" duration="111000" />
       <workItem from="1709675053487" duration="18000" />
-      <workItem from="1709675901833" duration="48000" />
+      <workItem from="1709675901833" duration="138000" />
+      <workItem from="1709678394020" duration="232000" />
+      <workItem from="1709678647613" duration="48000" />
     </task>
     <servers />
   </component>
