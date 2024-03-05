@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9e050ad-b08b-4096-9172-782bc90c837e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/strategy/OurHashBiMapStorageStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/HashBiMapStorageStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Shortener.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Shortener.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shortener/.idea/Shortener.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shortener/.idea/Shortener.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shortener/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shortener/src/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +46,10 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -52,7 +60,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
@@ -108,7 +116,11 @@
       <workItem from="1709672325430" duration="19000" />
       <workItem from="1709672366377" duration="6000" />
       <workItem from="1709673071367" duration="22000" />
-      <workItem from="1709673106350" duration="39000" />
+      <workItem from="1709673106350" duration="317000" />
+      <workItem from="1709674544980" duration="12000" />
+      <workItem from="1709674568504" duration="17000" />
+      <workItem from="1709674590631" duration="79000" />
+      <workItem from="1709674691845" duration="111000" />
     </task>
     <servers />
   </component>

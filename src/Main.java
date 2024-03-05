@@ -1,7 +1,6 @@
 package src;
 
-import src.strategy.HashMapStorageStrategy;
-import src.strategy.StorageStrategy;
+import src.strategy.*;
 
 import java.util.Date;
 import java.util.HashSet;
@@ -12,6 +11,12 @@ public class Main {
         long elementsNumber = 10000;
 
         testStrategy(new HashMapStorageStrategy(), elementsNumber);
+
+        testStrategy(new FileStorageStrategy(), elementsNumber);
+
+        testStrategy(new OurHashBiMapStorageStrategy(), elementsNumber);
+
+        testStrategy(new OurHashMapStorageStrategy(), elementsNumber);
     }
     public static void testStrategy(StorageStrategy strategy, long elementsNumber) {
         Helper.printMessage(strategy.getClass().getSimpleName() + ":");
