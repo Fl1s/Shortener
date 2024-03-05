@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Shortener:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Shortener_jar</output-path>
+    <root id="archive" name="Shortener.jar">
+      <element id="module-output" name="Shortener" />
+    </root>
+  </artifact>
+</component>

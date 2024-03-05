@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9e050ad-b08b-4096-9172-782bc90c837e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/strategy/FileBucket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/FileStorageStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Shortener_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shortener/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shortener/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shortener/src/strategy/HashMapStorageStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shortener/src/strategy/HashMapStorageStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/FileStorageStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/FileStorageStrategy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +48,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/Makss/Documents/GitHub/Shortener&quot;,
@@ -52,6 +56,9 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -87,7 +94,14 @@
       <workItem from="1709568869995" duration="15000" />
       <workItem from="1709571577803" duration="4000" />
       <workItem from="1709571588925" duration="11000" />
-      <workItem from="1709571604000" duration="666000" />
+      <workItem from="1709571604000" duration="717000" />
+      <workItem from="1709575153718" duration="13000" />
+      <workItem from="1709576224077" duration="94000" />
+      <workItem from="1709623457804" duration="599000" />
+      <workItem from="1709664667553" duration="12000" />
+      <workItem from="1709664689030" duration="1000" />
+      <workItem from="1709672325430" duration="19000" />
+      <workItem from="1709672366377" duration="6000" />
     </task>
     <servers />
   </component>
