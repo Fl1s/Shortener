@@ -1,4 +1,4 @@
-# ReadMePlz
+## Shortener
 Console short link service.
 
 I recommend downloading the libraries for the project to work correctly:
